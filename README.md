@@ -127,3 +127,11 @@ Episode titles link to the supplied local transcripts.
 This collection contains user-supplied transcripts for all **22 episodes**, organized in [`season-1/`](season-1/) and [`season-2/`](season-2/). The files preserve the supplied text, including notes, formatting, typos, and website boilerplate; they are not verified production scripts.
 
 See [`rome-transcript-index.md`](rome-transcript-index.md) for the original SubsLikeScript source links.
+
+## Acknowledgment
+
+Thanks to contributors to https://subslikescript.com/series/Rome-384766 for the episode subtitles
+
+## Warning
+
+These aren't scripts. They are just subtitles. No stage directions, character names, scene descriptions, blocking, begin or end scene markers. This kind of sucks. Got anything better?
